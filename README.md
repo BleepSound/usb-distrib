@@ -1,31 +1,16 @@
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 # USB distribution board
 
-Double USB receptacle to power 5V usb devices out of your eurorack case.
+Latest documentation available at https://bleepsound.github.io/modules/
 
-Usefull for lamps, external sequencer or anything you need really.
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-Rated up to 3A, but make sure your PSU can handle your needs. 
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-Watch out when connecting the 5V and GND, as an inversion might damage/fry the equipment connected to the USB plugs.
-
-## Schematics
-
-![USB distrib schematic](documentation/image/USB_distri--Schematic.svg)
-
-## BoM
-
-[See bom](documentation/bom/USB_distri_V1.0--iBoM.html)
-
-## Build Informations
-
-Solder first J3 (the terminal block), then put in place on J2 and J1 (the USB receptacles). Fasten the standoffs (use 12mm ones) between the front panel and the board, then solder J1 and J2 once everything is properly aligned.
-
-## Images
-
-![3D USB distrib(front)](documentation/image/USB_distri-3D_top.png)
-
-![3D USB distrib(back)](documentation/image/USB_distri-3D_bottom.png)
-
-![3D USB distrib(iso)](documentation/image/USB_distri-3D_top30deg.png)
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
